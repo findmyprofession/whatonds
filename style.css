@@ -1,0 +1,542 @@
+/*
+ Theme Name:   Whats On Hubs
+ Theme URI:    http://newcove.co.uk
+ Description:  Child theme for Whats On Hub
+ Author:       New Cove Marketing
+ Author URI:   http://newcove.co.uk
+ Template:     avada
+ Version:      1.0.0
+ License:      copyright 2018
+*/
+
+.single-post-thin-ad img{width:100% !important;}
+.shortdescription h1{font-size: 30px;text-align: left !important; padding-top: 1px;}
+.shortdescription h5{text-align: left; font-size: 16px; color: #000;    font-weight: normal;    margin: 15px 0 25px 0; float: left; width: 100%;}
+.shortdescription {  text-align: left;}
+.bkonlinebtn {
+    background: #ff2a7f;
+    color: #fff;
+    padding: 9px 15px 9px 15px;
+    font-size: 22px;
+    width: 63%;
+    float: left;
+    text-align: center;
+}
+.embtn {
+    background: #ff2a7f;
+    color: #fff;
+    padding: 9px 15px 9px 15px;
+    font-size: 22px;
+    margin-left: 12px;
+    width: 10%;
+    float: left;
+    text-align: center;
+}
+.cllbtn {
+    background: #ff2a7f;
+    color: #fff;
+    padding: 9px 15px 9px 15px;
+    font-size: 22px;
+    margin-left: 12px;
+    width: 10%;
+    float: left;
+    text-align: center;
+}
+.strbtn{    background: #fff;
+    color: #fff;
+    padding: 9px 15px 9px 15px;
+    font-size: 22px;
+    margin-left: 12px;
+    width: 10%;
+    float: left;
+    text-align: center;
+    border: 1px solid #333;}
+.shortdescription p{padding-top: 18px;text-align: center;}
+.shortdescription h2{font-weight: bold !important;    font-size: 20px !important;}
+.rpc-post-comment{display: none;}
+.single_blog_inner_content
+{
+    float: left;
+    width: 100%;
+}
+#interested img{    border-radius: 100%;margin: 4px 15px 15px 0;width: 9%;}
+.event-actions ul li a i {font-size: 25px;}
+.event-actions ul li, .single-event-actions{background: transparent;}
+.single-event-actions{padding-top: 0;    padding-bottom: 0;}
+.shortdescription a:hover { color: #000;}
+.single-post-thin-ad h4{    font-size: 18px;    font-weight: normal; float: left; width: 100%;}
+.single-post-thin-ad.second{margin-bottom: 30px;}
+.rdmr{font-size: 18px; color: #FC317F; padding-bottom: 25px !important;  float: left;width: 100%; text-align: center; text-decoration: underline;}
+.seconddown li{    list-style: none;    float: left;margin-right: 15px;}
+.seconddown{width: 100%;float: left;}
+.ticket_pricing{margin-bottom: 20px;font-size: 18px;}
+.single_blog_inner_content p
+{
+    padding-top: 18px;
+    font-size: 16px;
+    color: #000;
+    line-height: 24px;
+}
+.under_single_blog
+{
+    width: 100%;
+    float: left;
+}
+.under_single_blog .left
+{
+    width: 50%;
+    float: left;
+}
+.under_single_blog .left h6
+{
+    background: url(/wp-content/uploads/2018/10/time-icon.png);
+    width: 100%;
+    float: left;
+    margin: 0;
+    font-size: 16px;
+    color: #000;
+    line-height: 24px;
+    font-weight: 400;
+    background-repeat: no-repeat;
+    padding: 0 30px 0 45px;
+    background-position: 0 5px;
+    margin: 15px 0 15px 0;
+}
+.under_single_blog .left p
+{
+    width: 100%;
+    float: left;
+    margin: 0;
+    font-size: 18px;
+    color: #000;
+    line-height: 34px;
+    font-weight: 400;
+    background-repeat: no-repeat;
+    padding: 0 30px 0 0;
+    background-position: 0 5px;
+    margin: 5px 0 15px 0;
+}
+.under_single_blog .left p a
+{
+    color: #ff2a7f;
+    text-decoration: underline;
+}
+.under_single_blog .left p img
+{
+    margin: 0 10px 0 0;
+}
+.under_single_blog .right
+{
+    width: 50%;
+    float: left;
+}
+.under_single_blog .right h6
+{
+    background: url(/wp-content/uploads/2018/10/map-maker.png);
+    width: 100%;
+    float: left;
+    margin: 0;
+    font-size: 16px;
+    color: #000;
+    line-height: 24px;
+    font-weight: 400;
+    background-repeat: no-repeat;
+    padding: 0 30px 0 45px;
+    background-position: 0 5px;
+    margin: 15px 0 15px 0;
+}
+.under_single_blog .right p
+{
+    width: 100%;
+    float: left;
+    margin: 0;
+    font-size: 18px;
+    color: #000;
+    line-height: 34px;
+    font-weight: 400;
+    background-repeat: no-repeat;
+    padding: 0 30px 0 47px;
+    background-position: 0 5px;
+    margin: 5px 0 15px 0;
+}
+.under_single_blog .right p a
+{
+    color: #ff2a7f;
+    text-decoration: underline;
+}
+.recommend_event_title h2 span
+{
+    color: #1eb400;
+}
+.recommend_event_row .img
+{
+    width: 8%;
+    float: left;
+}
+.recommend_event_row .text
+{
+    width: 92%;
+    float: left;
+}
+.recommend_event_row .text h5
+{
+    font-size: 18px;
+    color: #000;
+    margin: 0;
+}
+.recommend_event_row .text h5 span
+{
+    font-size: 18px;
+    color: #000;
+    font-weight: 800;
+}
+.recommend_event_row .text p
+{
+    margin: 0;
+    padding: 0;
+    font-size: 18px;
+    color: #000;
+}
+.recommend_event_row .text p a
+{
+        color: #ff2a7f;
+    text-decoration: underline;
+}
+.fusion-post-title{
+    width: calc(100% - 10px); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; margin-top: 20px;
+}
+.recommend_event_row
+{
+    float: left;
+    width: 100%;
+    padding: 0px;
+}
+.recommend_event_row_inner
+{
+    float: left;
+    width: 100%;
+    padding: 20px;
+}
+.recommend_event_row_first, .recommend_event_row_inner:hover
+{
+    background: #fff;
+}
+.can_recommend h2
+{
+    text-align: center;
+}
+.can_recommend .seconddown
+{
+    float: left;
+    width: 18%;
+}
+.can_recommend .seconddown ul
+{
+    float: left;
+    width: 100%;
+    padding: 0;
+        margin: 0;
+}
+.can_recommend .seconddown ul li
+{
+    font-size: 30px;
+}
+.comment-author{
+/*    display: none !important;*/
+}
+.cld-like-trigger .fa-thumbs-up{
+    font-size: 20px !important;
+}
+.cld-dislike-wrap .fa-thumbs-down{
+    font-size: 20px !important;
+}
+.can_recommend .why
+{
+    float: left;
+    width: 82%;
+}
+.why_input
+{
+    float: left;
+    width: 85% !important;
+    margin: 0 !important;
+    height: 47px !important;
+    font-size: 18px !important;
+    padding: 0 0 0 20px !important;
+    border: 1px solid #7d7d7d !important;
+    font-family: 'Montserrat';
+}
+.post_btn
+{
+    width: 15%;
+    color: #fff;
+    text-transform: uppercase;
+    background: #ff2a7f;
+    font-size: 18px;
+    height: 47px;
+    border: 1px solid #7d7d7d;
+    font-weight: 600;
+    font-family: 'Montserrat';
+    cursor: pointer;
+}
+.can_recommend
+{
+    width: 100%;
+    float: left;
+    margin: 0 0 50px 0;
+}
+.ticket_pricing
+{
+    color: #000;
+}
+.under_single_blog
+{
+    display: none;
+}
+.more_like_this .box
+{
+    margin: 0 0 30px 0;
+    float: left;
+    width: 100%;
+}
+.more_like_this .slick-slide
+{
+    margin: 0 10px !important;
+    border-top: 3px solid #5599ff;
+}
+.more_like_this .box .full_img
+{
+    width: 100%;
+}
+.more_like_this .box h3
+{
+    position: absolute;
+    z-index: 999;
+    padding: 5px 8px;
+    display: inline;
+    margin: 0;
+    width: auto;
+    float: left;
+    background: #5599ff;
+    color: #fff;
+    font-weight: 400;
+}
+.more_like_this .box .white_bg
+{
+    padding: 20px;
+}
+.more_like_this .box h2
+{
+    margin: 0;
+}
+.more_like_this .box  p
+{
+        font-size: 14px;
+}
+.more_like_this .box h6
+{
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 30px;
+    margin: 0;
+}
+.more_like_this .box h6 img
+{
+    margin: 0 10px 0 0;
+    width: 23px;
+    margin: 0 10px 8px 0;
+}
+.more_like_this .fusion-text
+{
+    float: left;
+    width: 100%;
+    margin: 10px 0 20px 0;
+    font-size: 16px;
+    line-height: 27px;
+}
+.single-event-container, #respond
+{
+/*    display: none;*/
+}
+
+#reply-title{
+    display: none;
+}
+
+#commentform .logged-in-as{
+    display: none;
+}
+.more_like_this
+{
+    width: 100%;
+    float: left;
+}
+.who_under_icons
+{
+    float: left;
+    width: 100%;
+   
+}
+.who_under_icons .event-actions ul li a i
+{
+    margin: 0 0 5px 0;
+}
+.who_interested_title
+{
+    float: left;
+    width: 100%;
+}
+.shortdescription
+{
+    width: 100%;
+    float: left;
+}
+#comments
+{
+    float: left;
+    width: 100%;
+}
+#comments .comment-text
+{
+float: left;
+    width: 89%;
+    margin: 0;
+    margin: 7px 0 0 0;
+}
+#comments .comment-text p
+{
+    padding: 0 !important;
+    margin: 0 0 15px 0 !important;
+    font-size: 18px;
+    color: #000;
+    float: left;
+    width: auto;
+    margin: 3px 0 15px 0 !important;
+    font-size: 17px;
+}
+#comments .comment-author
+{
+        float: left;
+    width: auto;
+    margin: 0 10px 0 0;
+    font-size: 20px;
+    line-height: 30px;
+    color: #000;
+    font-weight: 800;
+}
+#comments .avatar img
+{
+        border-radius: 100%;
+}
+.commentlist div.avatar {
+    float: left;
+    margin-right: 15px;
+    width: 8%;
+}
+#comments .comment-author
+{
+    float: left;
+    width: 90%;
+    margin: 0 0 10px 0;
+}
+#comments .comment-author strong
+{
+    font-size: 20px;
+    line-height: 35px;
+    float: left;
+}
+.event-category {
+    position: absolute;
+    z-index: 999;
+    padding: 7px 10px;
+    display: inline;
+    top: 3px;
+    font-size: 14px;
+}
+.event-content
+{
+    float: left;
+    border-bottom: 3px solid #5599ff;
+}
+.event-content h2
+{
+        font-size: 20px !important;
+}
+#comments .comment-author
+{
+    display: none;
+}
+.cld-like-dislike-wrap{
+    display: none;
+}
+#comments .comment-text .comment-author
+{
+    display: block !important;
+        display: block !important;
+    float: left;
+    width: auto;
+    margin: 0 8px 0 0;
+   
+}
+.cld-like-dislike-wrap
+{
+    font-size: 20px;
+    margin: 0 6px;
+    float: left;
+}
+.event-content .heading-with-icon
+{
+    float: left;
+}
+.event-content .fusion-clearfix
+{
+    display: none !important;
+}
+.more_like_this .box p
+{
+        font-size: 16px;
+    line-height: 28px;
+}
+
+.can_recommend .seconddown ul li {
+    font-size: 23px;
+}
+.comment-text #hidethiswithoutlogin{    width: 9%;}
+@media only screen and (min-width : 320px) and (max-width : 767px) 
+{
+    .event-actions ul li{font-size: 13px;}
+}
+
+@media screen and (min-width: 375px) and (max-width: 580px)
+{
+	.single-events #main{padding-top: 0 !important;}
+	.single-post-thin-ad h4{margin-top: 0px;margin-bottom: 5px;}
+	.post{padding-left: 30px;padding-right: 30px;}
+	.single-post-thin-ad{padding-right: 0;padding-left: 0;margin-bottom: 0px;}
+    .single-events .entry-title{width: 100%;float: left;line-height: 30px;font-size: 28px;font-weight: 900 !important;margin: 0 0 10px 0;}
+    .shortdescription h5{width: 100%;float: left; margin: 8px 0 25px 0;padding: 0;font-size: 18px;line-height: 21px;}
+	.bkonlinebtn {padding: 9px 10px 9px 10px !important;font-size: 18px !important;width: 50% !important;float: left;}
+	.embtn{padding: 9px 11px 9px 10px !important;font-size: 18px !important;margin-left: 5px !important;width: 15% !important;float: left;}
+	.cllbtn{padding: 9px 11px 9px 10px !important;font-size: 18px !important;margin-left: 5px !important;width: 15% !important;float: left;}
+	.strbtn{padding: 9px 11px 9px 10px !important; font-size: 18px !important; margin-left: 5px !important; width: 15% !important; float: left;}
+	.single_blog_inner_content{width: 100%;float: left;margin: 0;padding:0;}
+	.single_blog_inner_content p{margin-bottom: 25px;}
+    .single-event-actions{padding-bottom: 20px !important;}
+    #respond{width: 75%;}
+    #respond #comment-textarea{width: 60%;}
+    .commentlist div.avatar{width: 18%;}
+    #comments .comment-text{width: 76%;}
+	.recommend_event_title h2{font-size: 20px !important;}
+	.recommend_event_row .img{width: 20% !important;}
+	.recommend_event_row .text{width: 80% !important;}
+    .can_recommend .seconddown{width:25% !important;display: block;}
+	.can_recommend .why{width: 72% !important;}
+    .can_recommend .seconddown ul li {font-size: 22px !important;margin-right: 4px !important;}
+	.seconddown li{margin-right: 4px;}
+	.why input{width: 76% !important;height: 40px !important;}
+	.post_btn{font-size: 13px !important;width: 24% !important; height: 40px !important;}
+	.can_recommend{margin: 0 0 30px 0 !important;}
+    .single-post-thin-ad h4{width: 100%; float: left;font-size: 12px !important;}
+    .event-actions ul li {font-size: 12px !important;}
+    .more_like_this .event-actions ul li a i {font-size: 20px;}
+ }
